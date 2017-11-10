@@ -2,7 +2,7 @@
   "name": "vue-ckeditor-component",
   "description": "A Vue.js project",
   "version": "1.0.0",
-  "entry": "src/index.vue",
+  "main": "src/index.vue",
   "author": "longxingren <973506608@qq.com>",
   "license": "MIT",
   "scripts": {
